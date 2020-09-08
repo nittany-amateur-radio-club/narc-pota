@@ -1,0 +1,40 @@
+---
+title: "Park on the air (POTA) activity"
+subtitle: "NARC in a park"
+author: "Rick Gilmore K3ROG"
+date: "`r Sys.time()`"
+css: css/ioslides.css
+output:
+  ioslides_presentation:
+    logo: img/NARC-logo.png
+    self_contained: false
+    lib_dir: libs
+    widescreen: true
+    incremental: false
+    transition: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = 'center')
+```
+
+## Parks on the Air (POTA)
+
+- Parks on the Air (POTA): <https://parksontheair.com/>
+- Portable operation in a national or state/provincial park
+- Promote amateur radio & have fun
+
+---
+
+```{r, out.width="1000px"}
+knitr::include_graphics("img/pota-map-state-college.png")
+```
+
+## Planning
+
+- When
+  - Sat late am/early pm in Sept (9/26), Oct (10/3, 17, 31), or Nov (11/11)
+- How
+  - SSB/data/CW, battery/solar or generator power, probably 20, 40m
+- Where
+- Who
