@@ -38,3 +38,4 @@ knitr::include_graphics("img/pota-map-state-college.png")
   - SSB/data/CW, battery/solar or generator power, probably 20, 40m
 - Where
 - Who
+  - Complete Google Form survey: https://forms.gle/1uq7rQjxoKkM3myu7
